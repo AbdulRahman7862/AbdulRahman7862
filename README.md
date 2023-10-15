@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdul-Rahman</h1>
-<h3 align="center">A Full Stack Engineer from Pakistan</h3>
+<h3 align="center">A Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman7862&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman7862" /> </p>
 
