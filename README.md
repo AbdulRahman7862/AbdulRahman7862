@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Mern Stack,Flutter,Django,Laravel,React-Native,Java,C++,Python**
 
-- 📫 How to reach me **moonkhan77761@gmail.com**
+- 📫 How to reach me **founder@techedge.pro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
